@@ -1,5 +1,5 @@
 # magenta-layer-research
-Quick study to what effect different layers and training runs have on magenta
+Quick study of the effects different layers and training runs have on magenta Google's Tensorflow music generation Neural Network Program.
 
 
 
@@ -7,9 +7,16 @@ Quick study to what effect different layers and training runs have on magenta
 
 June 27, 2016
 
-Checkout midi files and mp3 files in the all-outputs folder. When everything is done every tramining run should end up in the named folders if you would like to try your own primer files.
+When everything is done every training run should end up in the named folders so that you can setup my training run with your own primer.mid file. Those folders should also include the .mid file output as well as a converted output to .mp3
 
 
-The All-inputs folder has the 2 midi file inputs and the fur-elise file primer
+
+The All-inputs folder has the 2 midi file inputs (a-few-of-my-favorite-things.mid and god-rest-ye-merry-gentlemen.mid) and fur-elise.mid as the primer.mid file
+
+Please make Pule Requests with the same folder labelling scheme
+
+midi2.LAYERS.TRAINING
+
+Obviously we are going to do runs with more than two midi files but I needed to make things simple to look for patterns.
 
 
