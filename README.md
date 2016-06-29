@@ -2,7 +2,7 @@
 Quick study of the effects different layers and training runs have on magenta Google's Tensorflow music generation Neural Network Program.
 
 
-## June29, 2016
+# June 29, 2016
 
 Clyp.it links for anyone who can't play online the github midi or mp3 files
 
@@ -13,7 +13,7 @@ Clyp.it links for anyone who can't play online the github midi or mp3 files
 [Rocksetta-Magenta-Research-input-2-god-rest-ye-merry-gentlemen](https://clyp.it/kq32hfdx)
 
 
-## Primer
+# Primer
 
 [Rocksetta-Magenta-Research-primer-fur-elise](https://clyp.it/4eiuopgx)
 
@@ -21,7 +21,7 @@ Clyp.it links for anyone who can't play online the github midi or mp3 files
 
 
 
-Name format explained:
+# Name format explained:
 
 midi = number of inputs = 2 for this entire github repository
 
@@ -70,6 +70,14 @@ Train = Number of training loops, note the defualt is to make a checkpoint and p
 
 
 
+.
+
+
+.
+
+
+
+.
 
 
 
@@ -77,7 +85,8 @@ Train = Number of training loops, note the defualt is to make a checkpoint and p
 
 
 
-June 27, 2016
+
+#June 27, 2016
 
 When everything is done every training run should end up zipped in the named folders so that you can setup my training run with your own primer.mid file. Those folders should also include the .mid file output as well as a converted output to .mp3
 
@@ -91,4 +100,10 @@ midi2.LAYERS.TRAINING
 
 Obviously we are going to do runs with more than two midi files but I needed to make things simple here to look for patterns.
 
+# Use at your own risk
 
+By Jeremy Ellis
+
+Maker of http://www.rocksetta.com
+
+Twitter @rocksetta
