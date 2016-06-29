@@ -39,7 +39,13 @@ Train = Number of training loops, note the defualt is to make a checkpoint and p
 
 All Research Outputs.
 
+[Rocksetta-Magenta-Research-midi2-layer-2d-25-25-train300](https://clyp.it/hvwmwuuf)
 
+[Rocksetta-Magenta-Research-midi2-layer-2d-5-5-train300](https://clyp.it/2dhmycye)
+
+[Rocksetta-Magenta-Research-midi2-layer-2d-5-5-train1000](https://clyp.it/0nohxd40)
+
+[Rocksetta-Magenta-Research-midi2-layer-2d-5-50-train300](https://clyp.it/mrrxf4nu)
 
 
 June 27, 2016
