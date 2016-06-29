@@ -2,6 +2,20 @@
 Quick study of the effects different layers and training runs have on magenta Google's Tensorflow music generation Neural Network Program.
 
 
+June29, 2016
+
+Clyp.it links for anyone who can't play online the midi or mp3 files
+Inputs
+
+[Rocksetta-Magenta-Research-input-1-a-few-of-my-favorite-things](https://clyp.it/gvz5zm1s)
+
+[Rocksetta-Magenta-Research-input-2-god-rest-ye-merry-gentlemen](https://clyp.it/kq32hfdx)
+
+
+
+
+
+
 
 
 
