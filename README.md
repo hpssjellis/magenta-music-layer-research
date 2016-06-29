@@ -57,6 +57,18 @@ All Research Outputs.
 
 [Rocksetta-Magenta-Research-midi2-layer-200-train1000](https://clyp.it/pa3tz0dh)
 
+[Rocksetta-Magenta-Research-midi2-layer5-train1000](https://clyp.it/prydx2v4)
+
+[Rocksetta-Magenta-Research-midi2-layer50-train300](https://clyp.it/lswzxuff)
+
+[Rocksetta-Magenta-Research-midi2-layer50-train1000](https://clyp.it/h3sxnrwc)
+
+[Rocksetta-Magenta-Research-midi2-layer-50-train3000](https://clyp.it/xto2didu)
+
+[Rocksetta-Magenta-Research-midi2-layer500-train300](https://clyp.it/klpanuli)
+
+
+
 
 
 
