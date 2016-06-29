@@ -12,9 +12,32 @@ Inputs
 [Rocksetta-Magenta-Research-input-2-god-rest-ye-merry-gentlemen](https://clyp.it/kq32hfdx)
 
 
+Primer
+
+[Rocksetta-Magenta-Research-primer-fur-elise](https://clyp.it/4eiuopgx)
 
 
 
+
+
+Name format explained:
+
+midi = number of inputs = 2 for this entire github repository
+
+Layer = Tensorflow layers in the statement 
+
+```
+--hparams='{"rnn_layer_sizes":[50]}'
+```
+Could also be a 2 dimensional training neural network 
+```
+--hparams='{"rnn_layer_sizes":[30, 20]}'
+```
+
+Train = Number of training loops, note the defualt is to make a checkpoint and print data every 10 loops.
+
+
+All Research Outputs.
 
 
 
