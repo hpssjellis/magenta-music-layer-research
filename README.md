@@ -4,8 +4,9 @@ Quick study of the effects different layers and training runs have on magenta Go
 
 June29, 2016
 
-Clyp.it links for anyone who can't play online the midi or mp3 files
-Inputs
+Clyp.it links for anyone who can't play online the github midi or mp3 files
+
+**Inputs
 
 [Rocksetta-Magenta-Research-input-1-a-few-of-my-favorite-things](https://clyp.it/gvz5zm1s)
 
@@ -37,7 +38,7 @@ Could also be a 2 dimensional training neural network
 Train = Number of training loops, note the defualt is to make a checkpoint and print data every 10 loops.
 
 
-All Research Outputs.
+**All Research Outputs.
 
 [Rocksetta-Magenta-Research-midi2-layer-2d-25-25-train300](https://clyp.it/hvwmwuuf)
 
