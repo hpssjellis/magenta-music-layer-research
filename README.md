@@ -2,6 +2,29 @@
 Quick study of the effects different layers and training runs have on magenta Google's Tensorflow music generation Neural Network Program.
 
 
+
+Jul22, 2016
+
+
+Sorry, have not been keeping this readme.md file up to date.
+
+
+I just re-organized the folder structure to include other builds with different number of midi files. I got magenta working on making it possible to re-train a run with a diffrerent set of midi files and have tested it.
+
+https://groups.google.com/a/tensorflow.org/forum/#!topic/magenta-discuss/riVSW-dKJ3k
+
+
+
+
+I also got magenta to set up a variable called temperature which allows some adjustment to the ability for a song to remember an exact song or something slightly different.
+
+https://groups.google.com/a/tensorflow.org/forum/#!topic/magenta-discuss/SCZR9qrQUGM
+
+I am presently testing this "temperature" variable.
+
+
+
+
 # June 29, 2016
 
 Clyp.it links for anyone who can't play online the github midi or mp3 files
