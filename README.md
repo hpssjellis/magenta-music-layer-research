@@ -3,6 +3,34 @@ Quick study of the effects different layers and training runs have on magenta Go
 
 
 
+july 28, 2016
+
+temperature change the randomness of the magenta output
+
+
+temperature 1   https://clyp.it/fs40wzuf
+
+
+temperature 3  https://clyp.it/0jwhnnhx
+
+
+
+temperature 5   https://clyp.it/u5mabdyy
+
+
+
+temperature 7  https://clyp.it/pf0mhrnx
+
+
+
+
+
+
+
+
+
+
+
 Jul22, 2016
 
 
